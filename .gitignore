@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+yarn-integrity
+arn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea
